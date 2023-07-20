@@ -55,7 +55,7 @@ Otellere ait tarihsel dönemler eklenir ve fiyatlandırmalar bu dönemler üzeri
 
 - 01/01/2021 - 31/05/2021
 - 01/06/2021 - 01/12/2021
-- 
+
 Oda Yönetimi
 ----------------------------------------------
 
@@ -154,7 +154,7 @@ Rezervasyon tamamlamak için :
 
 - Müşteri iletişim bilgileri
 - Misafir Ad Soyad ve T.C. Kimlik Bilgileri
-- 
+
 girerek sistem üzerinden satışı tamamlar. Eğer satış tamamlanırsa ilgili odanın stoğu 1 azalmış olur.
 
 Örnek Rezervasyon Tamamlama Çıktısı
